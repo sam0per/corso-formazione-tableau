@@ -1,5 +1,34 @@
 # Corso di Formazione: Tableau e Modello Dati della Trimestrale
 
+## 📑 Indice
+
+- [Corso di Formazione: Tableau e Modello Dati della Trimestrale](#corso-di-formazione-tableau-e-modello-dati-della-trimestrale)
+  - [📑 Indice](#-indice)
+  - [📋 Panoramica del Corso](#-panoramica-del-corso)
+    - [🎯 Obiettivi del Corso](#-obiettivi-del-corso)
+  - [📚 Struttura del Corso](#-struttura-del-corso)
+    - [Metodologia Didattica](#metodologia-didattica)
+  - [📅 Programma Dettagliato](#-programma-dettagliato)
+    - [**Sessione 1: Fondamenti e Introduzione a Tableau** (4 ore)](#sessione-1-fondamenti-e-introduzione-a-tableau-4-ore)
+    - [**Sessione 2: Connessione ai Database e Preparazione Dati** (4 ore)](#sessione-2-connessione-ai-database-e-preparazione-dati-4-ore)
+    - [**Sessione 3: Generazione di Output di Base** (4 ore)](#sessione-3-generazione-di-output-di-base-4-ore)
+    - [**Sessione 4: Dashboard Interattive Efficaci** (4 ore)](#sessione-4-dashboard-interattive-efficaci-4-ore)
+    - [**Sessione 5: Navigazione del Modello Dati Trimestrale** (4 ore)](#sessione-5-navigazione-del-modello-dati-trimestrale-4-ore)
+    - [**Sessione 6: Sviluppo e Manutenzione del Modello Dati Trimestrale** (4 ore)](#sessione-6-sviluppo-e-manutenzione-del-modello-dati-trimestrale-4-ore)
+  - [🗂️ Struttura del Repository](#️-struttura-del-repository)
+  - [🔧 Prerequisiti e Setup](#-prerequisiti-e-setup)
+    - [Prerequisiti per i Partecipanti](#prerequisiti-per-i-partecipanti)
+    - [Setup Iniziale](#setup-iniziale)
+  - [📖 Materiali del Corso](#-materiali-del-corso)
+    - [Risorse Aggiuntive](#risorse-aggiuntive)
+  - [🎓 Modalità di Valutazione](#-modalità-di-valutazione)
+  - [👨‍🏫 Formatore](#-formatore)
+  - [📞 Supporto e Comunicazione](#-supporto-e-comunicazione)
+  - [📅 Calendar Indicativo](#-calendar-indicativo)
+  - [📝 Note Finali](#-note-finali)
+
+---
+
 ## 📋 Panoramica del Corso
 
 Questo corso di formazione è progettato per fornire competenze pratiche e teoriche nella **Data Visualization con Tableau** e nell'utilizzo operativo del **modello dati della trimestrale** per il dipartimento di Programmazione e Controllo del progetto.
