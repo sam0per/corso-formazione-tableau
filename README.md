@@ -461,7 +461,7 @@ Data Scientist & Formatore | Specializzazione in Data Visualization e Modellazio
 - Esperienza comprovata in formazione tecnica e mentoring
 
 📧 Contatto: prnsml@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/samuelperini](#)
+🔗 LinkedIn: [samuelperini](https://www.linkedin.com/in/samuel-perini/)
 
 ---
 
